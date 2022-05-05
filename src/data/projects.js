@@ -1,47 +1,38 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
+    title: 'Covid Application',
     subtitle: '2015 BVP Hackathon',
-    image: '/images/projects/nearestdollar.jpg',
+    image: 'https://raw.githubusercontent.com/e76971072/knguyensite/master/src/data/img/project-covid.png',
     date: '2015-11-20',
     desc:
-      'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+      'It is an application to keep track of covid19 spread throughout global and USA ',
   },
   {
-    title: 'Harvest',
+    title: 'Trade Smarter',
     subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
     link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
+    image: 'https://raw.githubusercontent.com/e76971072/knguyensite/master/src/data/img/PL.png',
     date: '2015-09-20',
     desc:
-      'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+      'Built a Platform to help retail and stock traders to test out their strategy and assessing risk/reward before entering a trade',
   },
   {
-    title: 'Space Potato',
+    title: 'RowdyMart',
     subtitle: 'A kickstarter funded potato powered weather balloon.',
     link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
+    image: 'https://github.com/e76971072/RowdyCart-User-Interface/blob/master/img/Cart-checkout-view.png?raw=true',
     date: '2015-06-28',
     desc:
-      'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
+      'RowdyMart is a one-stop grocery shop containing a catalog of grocery items to fit your everyday needs. We also aim to help UTSA students stay healthy ',
   },
   {
-    title: 'Cat Detector',
+    title: 'Wardrobe',
     subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    image: '/images/projects/catdetector.jpg',
+    image: 'images/projects/complementary_app.jpeg',
     date: '2015-05-15',
     desc:
-      'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-      + 'Over 60,000 cats were classified before server bills made the project too expensive '
-      + 'to continue hosting.',
+      'The app makes suggestions by analyzing the predominate color of the clothing items and uses an algorithm to select the complementary color.',
   },
 ];
 
