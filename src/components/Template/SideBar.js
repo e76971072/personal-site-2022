@@ -20,7 +20,7 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>Hi, I&apos;m Kevin. I like building things.
-        I am a <a href="https://icme.stanford.edu/" style={{ color: 'orange' }}>UTSA</a> undergraduate, YC Alumni, and
+        I am a <a href="https://www.utsa.edu/" style={{ color: 'orange' }}>UTSA</a> undergraduate, YC Alumni, and
         the co-founder and CTO of <a href="https://arthena.com">Arthena</a>. Before Arthena I was
         at <a href="https://matroid.com">Matroid</a>
         , <a href="https://planet.com">Planet</a>
