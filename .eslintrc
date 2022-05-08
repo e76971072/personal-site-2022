@@ -12,6 +12,15 @@
       "specialLink": ["to", "hrefLeft", "hrefRight"],
       "aspects": ["noHref", "invalidHref", "preferButton"]
     }],
+    "object-curly-newline": [
+      "error",
+      {
+        "ObjectExpression": { "consistent": true, "multiline": true },
+        "ObjectPattern": { "consistent": true, "multiline": true },
+        "ImportDeclaration": "never",
+        "ExportDeclaration": { "multiline": true, "minProperties": 3 }
+      }
+    ],
     "jsx-a11y/click-events-have-key-events": 0,
     "jsx-a11y/href-no-hash": "off",
     "jsx-a11y/no-static-element-interactions": 0,
