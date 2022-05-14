@@ -34,6 +34,16 @@ const data = [
     desc:
       'The app makes suggestions by analyzing the predominate color of the clothing items and uses an algorithm to select the complementary color.',
   },
+  {
+    title: 'RowdyMart',
+    subtitle: 'A kickstarter funded potato powered weather balloon.',
+    link: 'http://www.spacepotato.org',
+    image: 'https://github.com/e76971072/RowdyCart-User-Interface/blob/master/img/Cart-checkout-view.png?raw=true',
+    date: '2015-06-28',
+    desc:
+      'RowdyMart is a one-stop grocery shop containing a catalog of grocery items to fit your everyday needs. We also aim to help UTSA students stay healthy ',
+  },
+
 ];
 
 export default data;

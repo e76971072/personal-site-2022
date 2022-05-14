@@ -12,6 +12,9 @@
       "specialLink": ["to", "hrefLeft", "hrefRight"],
       "aspects": ["noHref", "invalidHref", "preferButton"]
     }],
+    "indent": "off",
+	"no-tabs": "off",
+	"no-mixed-spaces-and-tabs": 0,
     "object-curly-newline": [
       "error",
       {
