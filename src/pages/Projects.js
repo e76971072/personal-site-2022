@@ -24,7 +24,7 @@ const Projects = () => (
           //   data={project}
           //   key={project.title}
           // >
-		  <ul className='project-list'><li><ActiveCard className="box" data={project} disabled={false}> {project.title}</ActiveCard></li></ul>
+		 <ActiveCard className="box" data={project} disabled={false}> {project.title}</ActiveCard>
 
           // </Cell>
         ))}
