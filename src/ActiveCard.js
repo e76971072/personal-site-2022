@@ -11,16 +11,16 @@ import PropTypes from 'prop-types';
 import './static/css/ActiveBox.css';
 import Fade from 'react-reveal/Fade';
 import SendIcon from '@mui/icons-material/Send';
+import Jump from 'react-reveal/Jump';
 
 export default function MediaCard({ data, disabled }) {
 		if (disabled == false) {
-			return (<Fade big>
+			return (<Jump >
 				<Card className="box" sx={{ width:  400, height: 500, borderRadius: '15px', padding: 0, background:'rbg(255,255,255)' }}>
 				  <CardMedia
 					component="img"
 					height="400"
 					image={data.image}
-					alt="green iguana"
 				  />
 				  <CardContent sx={{ width: 'auto', margin: 2 }}>
 					<Typography gutterBottom variant="h5" component="div">
@@ -39,7 +39,7 @@ export default function MediaCard({ data, disabled }) {
 				  </CardContent>
 
 				</Card>
-			  </Fade>
+			  </Jump>
 			  );
 		}
 		else {
@@ -50,7 +50,6 @@ export default function MediaCard({ data, disabled }) {
 					component="img"
 					height="400"
 					image={data.image}
-					alt="green iguana"
 				  />
 				   </Card>
 			  </Fade>)
