@@ -15,7 +15,8 @@ import Jump from 'react-reveal/Jump';
 
 export default function MediaCard({ data, disabled }) {
 		if (disabled == false) {
-			return (<Jump >
+			return (
+				// <Jump >
 				<Card className="box" sx={{ width:  400, height: 500, borderRadius: '15px', padding: 0, background:'rbg(255,255,255)' }}>
 				  <CardMedia
 					component="img"
@@ -39,12 +40,12 @@ export default function MediaCard({ data, disabled }) {
 				  </CardContent>
 
 				</Card>
-			  </Jump>
+			//   </Jump>
 			  );
 		}
 		else {
 			return (
-			<Fade big>
+			// <Fade big>
 				<Card className="box" sx={{ width:  400, height:'auto', borderRadius: '15px', padding: 0 }}>
 				  <CardMedia
 					component="img"
@@ -52,7 +53,8 @@ export default function MediaCard({ data, disabled }) {
 					image={data.image}
 				  />
 				   </Card>
-			  </Fade>)
+			//   </Fade>
+			)
 		}
 }
 
