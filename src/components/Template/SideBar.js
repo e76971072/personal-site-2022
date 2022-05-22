@@ -20,13 +20,8 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>Hi, I&apos;m Kevin. I like building things.
-        I am a <a href="https://www.utsa.edu/" style={{ color: 'orange' }}>UTSA</a> undergraduate, YC Alumni, and
-        the co-founder and CTO of <a href="https://arthena.com">Arthena</a>. Before Arthena I was
-        at <a href="https://matroid.com">Matroid</a>
-        , <a href="https://planet.com">Planet</a>
-        , <a href="https://planetaryresources.com">Planetary Resources</a>
-        , <a href="https://facebook.com">Facebook</a>
-        , and <a href="https://seds.org">SEDS</a>.
+        I am a <a href="https://www.utsa.edu/" style={{ color: 'orange' }}>UTSA</a> Alumni.
+        I received my B.S. from <a href="https://arthena.com">UTSA</a>. Over the past summers, I interned at Poly and GPM Life.
       </p>
       <ul className="actions">
         <li>
@@ -37,7 +32,7 @@ const SideBar = () => (
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">&copy; Michael D&apos;Angelo <Link to="/">mldangelo.com</Link>.</p>
+      <p className="copyright">&copy; Kevin A&apos;Nguyen <Link to="/">kevindream.me</Link>.</p>
     </section>
   </section>
 );

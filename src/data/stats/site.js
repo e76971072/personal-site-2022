@@ -11,6 +11,11 @@ const data = [
     link: 'https://github.com/mldangelo/personal-site/stargazers',
   },
   {
+    label: 'I was born in New year',
+    key: 'stargazers_count',
+    link: 'https://github.com/mldangelo/personal-site/stargazers',
+  },
+  {
     label: 'Number of people watching this repository',
     key: 'subscribers_count',
     link: 'https://github.com/mldangelo/personal-site/stargazers',

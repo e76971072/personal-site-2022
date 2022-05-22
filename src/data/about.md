@@ -20,13 +20,13 @@ I am currently a software engineer at JPMorgan Chase.
 - Sailing and the sea 🌊
 - Investing 🌱
 - Travel 🌍
-- [Books](https://www.goodreads.com/mdangelo)
+- [Books](https://www.goodreads.com/)
 - Colored pencils ([Faber-Castell Polychromos](https://www.faber-castell.com/products/art-and-graphic/polychromos))
-- Podcasts ([The Daily](https://www.nytimes.com/column/the-daily), [Planet Money](https://www.npr.org/sections/money/), [The Indicator](https://www.npr.org/podcasts/510325/the-indicator-from-planet-money), [This American Life](https://www.thisamericanlife.org/), [99% Invisible](https://99percentinvisible.org/episodes/), [The Economist](http://radio.economist.com/), [Radiolab](https://www.wnycstudios.org/shows/radiolab), [Hidden Brain](https://www.npr.org/series/423302056/hidden-brain), [Inquiring Minds](https://inquiring.show), and others)
+- Podcasts ([The Daily](https://www.nytimes.com/column/the-daily), [Lex Fridman](https://open.spotify.com/artist/1Jla6HHJjjdWaWUXQdiGTr), [The Indicator](https://www.npr.org/podcasts/510325/the-indicator-from-planet-money), [Joe Rogan ](https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk), and others)
 - [Good design](/)
-- [Photography](https://instagram.com/dangelosaurus)
+- [Photography]()
 
-# Travel / Geography
+<!-- # Travel / Geography
 
 - I am from originally from Buffalo, New York. I have since lived in Palo Alto, Mountain View, San Francisco, Seattle, and New York.
 - I've been to ~ 50 countries, some of which I have forgotten, and many of which I would like to revisit.
@@ -36,9 +36,9 @@ I am currently a software engineer at JPMorgan Chase.
 - In 2019, I visited: Canada, England, France, and Switzerland.
 - In 2020, I barely traveled 20 blocks. I stayed in New York and remodeled an apartment.
 - In 2021, I hope to start traveling again.
-- I am an Oregon Trail II enthusiast.
+- I am an Oregon Trail II enthusiast. -->
 
-# Fun facts
+<!-- # Fun facts
 
 - I have a list of thousands of ideas, like creating matching bow ties for cats and humans.
 - I almost always have a sketchbook with me and a [01 Sakura Pigma Micron Pen](https://www.sakuraofamerica.com/product/pigma-micron/).
@@ -68,6 +68,6 @@ I am currently a software engineer at JPMorgan Chase.
 - [Kristina Monakhova](https://kristinamonakhova.com/)
 - [Noah Trueblood](http://notrueblood.com/)
 - [Ruoxi Wang](http://ruoxiw.com/)
-- [Tom Sachs](https://www.tomsachs.org/)
+- [Tom Sachs](https://www.tomsachs.org/) -->
 
 If we are friends and you feel like you belong on this list, you're probably right. I'm sorry I forgot about you. Pester me and I'll add you.

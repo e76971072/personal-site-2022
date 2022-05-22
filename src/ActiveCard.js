@@ -10,34 +10,51 @@ import Typography from '@mui/material/Typography';
 import PropTypes from 'prop-types';
 import './static/css/ActiveBox.css';
 import Fade from 'react-reveal/Fade';
-import { faGithub } from '@fortawesome/free-brands-svg-icons/faGithub';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import SendIcon from '@mui/icons-material/Send';
 
-export default function MediaCard({ data }) {
-  return (
-    <Fade bottom>
-      <Card className="box" sx={{ width:  400, height: 400, borderRadius: '15px', padding: 0 }}>
-        <CardMedia
-          component="img"
-          height="400"
-          image={data.image}
-          alt="green iguana"
-        />
-        <CardContent>
-          <Typography gutterBottom variant="h5" component="div" >
-            {data.title}
-          </Typography>
-          <Typography variant="body2" color="text.secondary" sx={{ width: 'auto', height: 100 }} >
-            {data.desc}
-			<a href={'https://github.com/e76971072'}>
-          		<FontAwesomeIcon icon={faGithub} />
-        	</a>
-          </Typography>
-        </CardContent>
-      </Card>
-    </Fade>
+export default function MediaCard({ data, disabled }) {
+		if (disabled == false) {
+			return (<Fade big>
+				<Card className="box" sx={{ width:  400, height: 500, borderRadius: '15px', padding: 0, background:'rbg(255,255,255)' }}>
+				  <CardMedia
+					component="img"
+					height="400"
+					image={data.image}
+					alt="green iguana"
+				  />
+				  <CardContent sx={{ width: 'auto', margin: 2 }}>
+					<Typography gutterBottom variant="h5" component="div">
+					  {data.title}
+					</Typography>
+					<Typography variant="body2" color="text.secondary" sx={{ width: 'auto', height: 'auto' }} >
+					  {data.desc}<br/>
 
-  );
+					</Typography>
+					<Typography gutterBottom variant="h2" component="div">
+					<Button variant="outlined" style= {{ borderRadius: "5px", height: "auto"}} href={data.link} endIcon={<SendIcon />} target="_blank">
+        				Learn More 🔗
+      				</Button>
+					</Typography>
+
+				  </CardContent>
+
+				</Card>
+			  </Fade>
+			  );
+		}
+		else {
+			return (
+			<Fade big>
+				<Card className="box" sx={{ width:  400, height:'auto', borderRadius: '15px', padding: 0 }}>
+				  <CardMedia
+					component="img"
+					height="400"
+					image={data.image}
+					alt="green iguana"
+				  />
+				   </Card>
+			  </Fade>)
+		}
 }
 
 MediaCard.propTypes = {
