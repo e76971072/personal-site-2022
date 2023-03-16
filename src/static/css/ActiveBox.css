@@ -1,5 +1,7 @@
 .box {
-	margin: 1em
+	margin: 1em;
+	width: auto;
+	height: auto;
 }
 .box:hover{
     transform: scale(1.1);

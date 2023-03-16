@@ -15,6 +15,14 @@ const Experience = ({ data }) => (
         key={job.company}
       />
     ))}
+	 <div className="link-to" id="experience" />
+    <div className="title">
+      <h3>License & Certifications</h3>
+	  <a href="https://www.credly.com/badges/7f0a3c1b-4022-4786-8d97-2d0e61dbf50e/public_url" target="_blank" style={{border: "white"}}>
+	  <img src="https://images.credly.com/size/150x150/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/>
+	 </a>
+    </div>
+
   </div>
 );
 

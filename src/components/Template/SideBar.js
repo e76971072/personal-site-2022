@@ -13,7 +13,7 @@ const SideBar = () => (
       </Link>
       <header>
         <h2>Kevin A&apos;Nguyen</h2>
-        <p><a href="mailto:kevin.at.nguyenn@gmail.com">kevin.at.nguyenn@gmail.com</a></p>
+        <p><a href="mailto:an.nguyen1197@gmail.com">an.nguyen1197@gmail.com</a></p>
       </header>
     </section>
 
@@ -21,7 +21,7 @@ const SideBar = () => (
       <h2>About</h2>
       <p>Hi, I&apos;m Kevin. I like building things.
         I am a <a href="https://www.utsa.edu/" style={{ color: 'orange' }}>UTSA</a> Alumni.
-        I received my B.S. from <a href="https://arthena.com">UTSA</a>. Over the past summers, I interned at Poly and GPM Life.
+        I received my B.S. from <a href="https://www.utsa.edu/">UTSA</a>. Over the past summers, I interned at Poly and GPM Life.
       </p>
       <ul className="actions">
         <li>

@@ -5,9 +5,9 @@ const positions = [
     link: 'https://arthena.com',
     daterange: 'April 2020 - Present',
     points: [
-      'Assisted in smooth transactions with high value commodities deals.',
-      'Contributed on important decision making about the Kapital to Athena.',
-      'Developed new features to monitor risk of market rates reports',
+      'Worked closely with middle office for accurate and timely commodity transaction settlement.',
+      'Developed and maintained code to support various FX products and asset classes.',
+      'Developed advanced features to monitor market rate curves, mitigating potential exposure.',
     ],
   },
   {

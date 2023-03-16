@@ -9,21 +9,26 @@ const validateText = (text) => {
 };
 
 const messages = [
-  'hi',
-  'hello',
-  'hola',
-  'you-can-email-me-at-literally-anything! Really',
-  'well, not anything. But most things',
-  'like-this',
-  'or-this',
-  'but not this :(  ',
-  'you.can.also.email.me.with.specific.topics.like',
-  'just-saying-hi',
-  'please-work-for-us',
-  'help',
-  'admin',
-  'or-I-really-like-your-website',
-  'thanks',
+	'Hey there!',
+	'Greetings!',
+	'Whats up?',
+	'Salutations!',
+	'Yo!',
+	'Hiya!',
+	'Howdy!',
+	'Aloha!',
+	'Hola!',
+	'Bonjour!',
+	'Sup?',
+	'Wassup?',
+	'Hello there!',
+	'Hi-de-ho!',
+	'Hi-oh-silver!',
+	'Hi-diddle-diddle!',
+	'Hi-ho, hi-ho!',
+	'Hi-ya, pal!',
+	'Hi-ya, champ!',
+	'Hi-ya, partner!',
 ];
 
 const useInterval = (callback, delay) => {
@@ -76,7 +81,7 @@ const EmailLink = () => {
       onMouseEnter={() => setIsActive(false)}
       onMouseLeave={() => (idx < messages.length) && setIsActive(true)}
     >
-      <a href={validateText(message) ? `mailto:${'KEVIN.AT.NGUYENN'}@GMAIL.COM` : ''}>
+      <a href={validateText(message) ? `mailto:${'an.nguyen1197'}@GMAIL.COM` : ''}>
         <span>{message}</span>
         <span>@gmail.com</span>
       </a>
