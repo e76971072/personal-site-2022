@@ -2,7 +2,7 @@ const positions = [
   {
     company: 'JPMorgan Chase & Co',
     position: 'Software Engineer (CIB)',
-    link: 'https://arthena.com',
+    link: 'https://www.jpmorgan.com/global',
     daterange: 'April 2021 - Present',
     points: [
       'Worked closely with middle office for accurate and timely commodity transaction settlement.',
