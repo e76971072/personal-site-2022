@@ -3,7 +3,7 @@ const positions = [
     company: 'JPMorgan Chase & Co',
     position: 'Software Engineer (CIB)',
     link: 'https://arthena.com',
-    daterange: 'April 2020 - Present',
+    daterange: 'April 2021 - Present',
     points: [
       'Worked closely with middle office for accurate and timely commodity transaction settlement.',
       'Developed and maintained code to support various FX products and asset classes.',
@@ -13,7 +13,7 @@ const positions = [
   {
     company: 'POLY. INC',
     position: 'Software Engineer Intern',
-    link: 'http://skepticalinvestments.biz',
+    link: 'https://www.poly.com/us/en',
     daterange: 'June 2019 – August 2019',
     points: [
       'Rebuilt the language translation for internationalization and localization.',
@@ -23,7 +23,7 @@ const positions = [
   {
     company: 'GPM LIFE INSURANCE',
     position: 'Software Engineer Intern',
-    link: 'http://enveritas.org',
+    link: 'https://www.gpmlife.com/gpmlife/home',
     daterange: 'Feb 2019 – June 2019',
     points: [
       'Assisted in maintaining and developing company’s databases, web server.',
