@@ -20,16 +20,14 @@ I am currently a software engineer at JPMorgan Chase.
 - Sailing and the sea 🌊
 - Investing 🌱
 - Travel 🌍
-- [Books](https://www.goodreads.com/)
-- Colored pencils ([Faber-Castell Polychromos](https://www.faber-castell.com/products/art-and-graphic/polychromos))
-- Podcasts ([The Daily](https://www.nytimes.com/column/the-daily), [Lex Fridman](https://open.spotify.com/artist/1Jla6HHJjjdWaWUXQdiGTr), [The Indicator](https://www.npr.org/podcasts/510325/the-indicator-from-planet-money), [Joe Rogan ](https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk), and others)
-- [Good design](/)
-- [Photography]()
+- [Books](https://www.goodreads.com/) 📚
+- Podcasts ([The Daily](https://www.nytimes.com/column/the-daily), [Lex Fridman](https://open.spotify.com/artist/1Jla6HHJjjdWaWUXQdiGTr), [The Indicator](https://www.npr.org/podcasts/510325/the-indicator-from-planet-money), [Joe Rogan ](https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk), and others) 🎤
+- [Good design](/) 🎨
+- [Photography]() 📸
 
 <!-- # Travel / Geography
 
-- I am from originally from Buffalo, New York. I have since lived in Palo Alto, Mountain View, San Francisco, Seattle, and New York.
-- I've been to ~ 50 countries, some of which I have forgotten, and many of which I would like to revisit.
+- I've been to ~ 50 countries, some of which I have forgotten, and manyof which I would like to revisit.
 - In 2016, I visited: Canada, Ethiopia, Austria, Germany, Belgium, Ireland, Northern Ireland, Italy, Romania, Sweden, Norway, Svalbard, Panama, Costa Rica, Uganda, Japan, and the UAE, mostly in that order.
 - In 2017, I visited: Canada, Japan, Denmark, Germany, Sweden, Estonia, Russia, the Netherlands, Belgium, the U.K., Spain, Iceland, France, Switzerland, Ethiopia, and Luxembourg.
 - In 2018, I visited: Canada, France, Italy, Israel, and the U.K.
@@ -70,4 +68,4 @@ I am currently a software engineer at JPMorgan Chase.
 - [Ruoxi Wang](http://ruoxiw.com/)
 - [Tom Sachs](https://www.tomsachs.org/) -->
 
-If we are friends and you feel like you belong on this list, you're probably right. I'm sorry I forgot about you. Pester me and I'll add you.
+<!-- If we are friends and you feel like you belong on this list, you're probably right. I'm sorry I forgot about you. Pester me and I'll add you. -->
