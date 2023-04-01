@@ -19,7 +19,7 @@ const Welcome = () => {
       }}
 	>
       <ReactTypingEffect
-        text={["Hey,👋 you made it! Let's build 🛠 something awesome together"]}
+        text={[", welcome", ", you made it! Let's build something awesome together"]}
 		typingDelay={50}
 		speed={100}
 		eraseDelay={200}
@@ -27,6 +27,7 @@ const Welcome = () => {
         displayTextRenderer={(text, i) => {
           return (
             <h1>
+			  Hey 👋
               {text.split('').map((char, i) => {
                 const key = `${i}`;
                 return (
@@ -36,7 +37,9 @@ const Welcome = () => {
                   >{char}</span>
                 );
               })}
+
             </h1>
+
           );
         }}
       />
