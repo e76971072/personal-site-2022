@@ -9,7 +9,7 @@ import ActiveCard from '../ActiveCard';
 const Projects = () => (
   <Main
     title="Projects"
-    description="Learn about Michael D'Angelo's projects."
+    description=""
   >
     <article className="post" id="projects">
       <header>

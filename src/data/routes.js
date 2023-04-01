@@ -22,8 +22,8 @@ const routes = [
   },
 
   {
-    label: 'Activites',
-    path: '/activites',
+    label: 'Download Resume',
+    path: '/downloadresume',
   },
   {
     label: 'Contact',

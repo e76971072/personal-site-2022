@@ -21,7 +21,7 @@ const SideBar = () => (
       <h2>About</h2>
       <p>Hi, I&apos;m Kevin. I like building things.
         I am a <a href="https://www.utsa.edu/" style={{ color: 'orange' }}>UTSA</a> Alumni.
-        I received my B.S. from <a href="https://www.utsa.edu/">UTSA</a>. Over the past summers, I interned at Poly and GPM Life.
+        I received my B.S. from <a href="https://www.utsa.edu/">UTSA</a>.
       </p>
       <ul className="actions">
         <li>

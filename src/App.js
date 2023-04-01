@@ -18,7 +18,7 @@ const Resume = lazy(() => import('./pages/Resume'));
 const Stats = lazy(() => import('./pages/Stats'));
 // const Activities = lazy(() => import('./pages/Activities'));
 const Welcome = lazy(() => import('./pages/Welcome'));
-
+const DownloadResume = lazy(() => import ('./pages/DownloadResume'))
 
 const App = () => (
   <BrowserRouter basename={PUBLIC_URL}>
@@ -30,7 +30,7 @@ const App = () => (
         <Route path="/stats" component={Stats} />
         <Route path="/contact" component={Contact} />
         <Route path="/resume" component={Resume} />
-		{/* <Route path="/activites" component={Activities} /> */}
+		<Route path="/downloadresume" component={DownloadResume} />
         <Route component={NotFound} status={404} />
       </Switch>
     </Suspense>
