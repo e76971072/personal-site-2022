@@ -16,7 +16,7 @@ const NotFound = lazy(() => import('./pages/NotFound'));
 const Projects = lazy(() => import('./pages/Projects'));
 const Resume = lazy(() => import('./pages/Resume'));
 const Stats = lazy(() => import('./pages/Stats'));
-const Activities = lazy(() => import('./pages/Activities'));
+// const Activities = lazy(() => import('./pages/Activities'));
 const Welcome = lazy(() => import('./pages/Welcome'));
 
 
@@ -30,7 +30,7 @@ const App = () => (
         <Route path="/stats" component={Stats} />
         <Route path="/contact" component={Contact} />
         <Route path="/resume" component={Resume} />
-		<Route path="/activites" component={Activities} />
+		{/* <Route path="/activites" component={Activities} /> */}
         <Route component={NotFound} status={404} />
       </Switch>
     </Suspense>
