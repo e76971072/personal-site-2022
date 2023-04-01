@@ -42,6 +42,7 @@
     "react-router-dom": "^5.2.0",
     "react-scripts": "^4.0.1",
     "react-snap": "^1.23.0",
+    "react-typing-effect": "^2.0.5",
     "rimraf": "^3.0.2"
   },
   "devDependencies": {
