@@ -7,7 +7,7 @@ const positions = [
     points: [
       'Worked closely with middle office for accurate and timely commodity transaction settlement.',
       'Developed and maintained code to support various FX products and asset classes.',
-      'Developed advanced features to monitor market rate curves, mitigating potential exposure.',
+      'Developed advanced features to monitor financial reports, mitigating potential exposure.',
     ],
   },
   {
