@@ -18,7 +18,7 @@ const DownloadResume = () => (
         </div>
       </header>
       <div style={{ width: '100%', margin: '0 auto', justifyContent: 'center', display: 'flex', flexWrap: 'wrap' }}>
-	  <a href="https://drive.google.com/file/d/1PELVtLAXqiI-UXkewrnqBeAhlfUjf2oT/view?usp=sharing"  target="_blank"
+	  <a href="https://drive.google.com/file/d/1fX6tNkECKL5UsTRru18TqxNzFf_M2LSg/view"  target="_blank"
 	  		style={{ color: "blue", fontFamily: "sans-serif", fontWeight: "600"}} >
 				📎 Download Resume
 		</a>
