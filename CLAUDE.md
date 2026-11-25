@@ -44,6 +44,8 @@ ESLint must stay on v9: `eslint-plugin-react` doesn't support v10 yet.
   route, so update that table when you change headings or add routes.
 - Deploy: `.github/workflows/github-pages.yml` runs lint, test and build, then on pushes to `main` publishes `dist/`
   to the `gh-pages` branch. `public/CNAME` sets the custom domain.
+- The site also builds on Netlify. `netlify.toml` sets the publish folder to `dist` and Node 22, and
+  `public/_redirects` sends every path to `index.html` so deep links work.
 - DeltaDesk's `screens` field drives `components/ProductTour.jsx`, the tabbed screenshot tour between the featured
   card and the course grid. Its images live in `public/images/projects/deltadesk/`.
 - The DeltaDesk card image and tour screenshots come from the separate tradelog repo (`frontend/public/docs-images/`). Those
