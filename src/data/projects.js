@@ -75,7 +75,7 @@ const projects = [
   {
     title: 'COVID-19 Tracker',
     year: '2020',
-    tagline: '1st place, Canon Hackathon.',
+    tagline: 'Live map of the pandemic.',
     desc: 'Tracks the spread of COVID-19 across the world and the United States.',
     tags: ['JavaScript', 'React'],
     image: '/images/project-covid.png',

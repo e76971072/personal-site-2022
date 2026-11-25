@@ -15,7 +15,6 @@ const stats = [
   { value: `${yearsInIndustry}+`, label: 'years building software' },
   { value: String(projects.length), label: 'projects shipped' },
   { value: 'M.S. CS', label: 'UIUC, Dec 2025' },
-  { value: '1st', label: 'place, Canon Hackathon' },
 ];
 
 export default function Home() {
