@@ -3,7 +3,7 @@ const degrees = [
 		school: 'University of Illinois Urbana-Champaign',
 		degree: 'M.S. Computer Science',
 		link: 'https://cs.illinois.edu/',
-		year: '2023 - Present',
+		year: '2023 - Dec 2025',
 	  },
 	{
     school: 'University Of Texas At San Antonio',
