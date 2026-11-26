@@ -33,6 +33,8 @@ const projects = [
         caption: 'Win rate, profit factor, fees and drawdown per account, with open trades priced live.' },
       { tab: 'Portfolio risk', src: '/images/projects/deltadesk/portfolio-risk.png', title: 'Understand the risk in your portfolio',
         caption: 'Beta-weighted exposure, Greeks, sector mix, stress tests and alerts in one view.' },
+      { tab: 'NewsDesk', src: '/images/projects/deltadesk/newsdesk.png', title: 'Market news, tagged for what matters',
+        caption: 'A live news wire with AI sentiment and impact scores on every story, and the Daily Delta briefing on what moved markets.' },
       { tab: 'AI assistant', src: '/images/projects/deltadesk/backtest-assistant.png', title: 'Describe a strategy in plain English',
         caption: 'The AI assistant turns your idea into a backtest plan, asks about anything missing and runs it for you.' },
       { tab: 'Free courses', src: '/images/projects/deltadesk/course.png', title: 'Learn the markets for free',
